@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web design 
 - 🌱 I’m currently learning Web design  
 - 📫 How to reach me ostapovron@gmail.com
-- My site: 
+- My site: https://ostapovron.wixsite.com/ronostapov
 <!---
 zr0ll/zr0ll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
