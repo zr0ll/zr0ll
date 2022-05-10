@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zr0ll
-- 👀 I’m interested in game development and graphic design
-- 🌱 I’m currently learning game development and graphic design
+- 👀 I’m interested in Web design 
+- 🌱 I’m currently learning Web design  
 - 📫 How to reach me ostapovron@gmail.com
 
 <!---
